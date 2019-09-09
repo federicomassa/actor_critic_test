@@ -1,0 +1,5 @@
+float32 goal_distance
+float32 speed
+float32 laser1
+float32 laser2
+float32 laser3
